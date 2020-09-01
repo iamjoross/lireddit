@@ -7,3 +7,4 @@ export const __back_origin__ =
   process.env.NODE_ENV !== 'production'
     ? 'http://dev.test-site.com:4000'
     : undefined;
+export const COOKIE_NAME = 'qid';
